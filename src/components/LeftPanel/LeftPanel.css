@@ -1,0 +1,10 @@
+.left-panel{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    padding: 30px 20px;
+    gap: 20px;
+}
+.logo{
+    width: 180px;
+}

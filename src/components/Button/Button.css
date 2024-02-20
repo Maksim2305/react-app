@@ -1,0 +1,28 @@
+.button {
+    border-radius: 6px;
+    padding: 8px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+    border: none;
+    color: white;
+    display: inline-block;
+    max-width: 135px;
+  }
+.button:hover {
+    background: #222096;
+}
+.accent{
+    background: #312EB5;
+}
+.delete-button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 6px;
+}
+.delete-button:hover {
+    background: #28282c;
+}

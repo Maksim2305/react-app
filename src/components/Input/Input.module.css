@@ -1,0 +1,20 @@
+.input{
+    background-color: #181818;
+    color: #fff;
+    border-radius: 4px;
+    border: none;
+    color: #fff;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 100%;
+    padding: 15px 0px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+}
+.input-title{
+    font-size: 32px;
+}
+.invalid{
+    border: 2px solid red !important;
+    background-color: rgba(102, 56, 56) !important;
+}
